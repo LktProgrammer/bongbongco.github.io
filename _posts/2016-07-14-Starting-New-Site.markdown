@@ -5,8 +5,8 @@ title: Blogging Like a Hacker
 
 Here is LeeSeungyong of new Site
 ================================
-# springs-thursday.iptime.org  
-## bongbongco.blog.me ##
+* springs-thursday.iptime.org  
+* bongbongco.blog.me ##
 
 {{ "perform_complicated_task"  | markdownify }}
 
