@@ -1,4 +1,4 @@
-Here is LeeSeungyong to new Site
+Here is LeeSeungyong of new Site
 ================================
-* etc : springs-thursday.iptime.org
-*
+# springs-thursday.iptime.org
+## bongbongco.blog.me ##
