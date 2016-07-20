@@ -12,13 +12,13 @@ Redis
 
 Windows
 ------
-	+ Visual studio 2013(최신 버전 redis)을 이용하여 직접 소스 컴파일 (소스 경로 : https://github.com/MSOpenTech/redis)
-	+ 생성된 실행 파일 복사 
-	+ 환경설정파일 복사 (\redis-3.0\msvs\setups\documentation\redis.windows.conf -> 실행 파일이 존재하는 디렉터리에 redis.conf 파일로 복사)
-	+ 환경설정파일 수정 (bind 127.0.0.1, port 6379, logfile "C:\Temp\Redis.log")
-	+ 서비스 등록 : \redis-server.exe --service-install redis.conf --loglevel verbose
-	+ 서비스 실행 : \redis-server.exe --service-start
-	+ 클라이언트 접속 테스트 : redis-cli.exe -h 127.0.0.1 -p 6379
++ Visual studio 2013(최신 버전 redis)을 이용하여 직접 소스 컴파일 (소스 경로 : https://github.com/MSOpenTech/redis)
++ 생성된 실행 파일 복사 
++ 환경설정파일 복사 (\redis-3.0\msvs\setups\documentation\redis.windows.conf -> 실행 파일이 존재하는 디렉터리에 redis.conf 파일로 복사)
++ 환경설정파일 수정 (bind 127.0.0.1, port 6379, logfile "C:\Temp\Redis.log")
++ 서비스 등록 : \redis-server.exe --service-install redis.conf --loglevel verbose
++ 서비스 실행 : \redis-server.exe --service-start
++ 클라이언트 접속 테스트 : redis-cli.exe -h 127.0.0.1 -p 6379
 	
 ~~~
 127.0.0.1:6379> set id lsy
@@ -27,14 +27,14 @@ OK
 "lsy"
 ~~~
 
-	+ 서비스 중지 : \redis-server.exe --service-stop
-	+ 서비스 제거 : \redis-server.exe --service-uninstall
-	+ 비밀번호 인증 시 : auth [password]
++ 서비스 중지 : \redis-server.exe --service-stop
++ 서비스 제거 : \redis-server.exe --service-uninstall
++ 비밀번호 인증 시 : auth [password]
 
 Linux
 ------
-	+ Redis 최신 버전 소스 다운로드 (소스 경로 : wget http://download.redis.io/releases/redis-3.0.1.tar.gz)
-	+ 다운받은 소스 빌드
++ Redis 최신 버전 소스 다운로드 (소스 경로 : wget http://download.redis.io/releases/redis-3.0.1.tar.gz)
++ 다운받은 소스 빌드
 	
 ~~~
 $ tar xzf redis-3.0.1.tar.gz
@@ -43,8 +43,8 @@ $ sudo make
 $ sudo make install
 ~~~
 
-	+ utils 디렉터리 안에 설치 파일 실행 ($ sudo ./install_server.sh)
-	+ /usr/local/bin/ 디렉터리로 이동하여 서버 실행 (On / Off → $ sudo /etc/init.d/redis_6379 start / $ sudo /etc/init.d/redis_6379 stop)
++ utils 디렉터리 안에 설치 파일 실행 ($ sudo ./install_server.sh)
++ /usr/local/bin/ 디렉터리로 이동하여 서버 실행 (On / Off → $ sudo /etc/init.d/redis_6379 start / $ sudo /etc/init.d/redis_6379 stop)
 
 + 사용 용도
 : Redis 는 Key/Value Store로 데이터베이스 캐시 혹은 메시지 서버로 활용된다. (넓은 의미에서 NoSQL로 분류할 수 도 있고 In memory 솔루션으로 분류도 가능하다.) 그 밖에 서버 간에 공유 메모리를 넣어서 서버간에 상태 정보 유지를 위해 사용할 수 있다.  
