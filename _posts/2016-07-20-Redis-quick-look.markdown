@@ -9,6 +9,7 @@ Redis
 + 목적 : 보안 가이드 작성
 + 조사 내용
 	+ 운영 환경(설치 및 간단한 운용 방법)  
+
 Windows
 ------
 	+ Visual studio 2013(최신 버전 redis)을 이용하여 직접 소스 컴파일 (소스 경로 : https://github.com/MSOpenTech/redis)
