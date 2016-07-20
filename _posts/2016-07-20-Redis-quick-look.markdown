@@ -19,12 +19,14 @@ Windows
 	+ 서비스 등록 : \redis-server.exe --service-install redis.conf --loglevel verbose
 	+ 서비스 실행 : \redis-server.exe --service-start
 	+ 클라이언트 접속 테스트 : redis-cli.exe -h 127.0.0.1 -p 6379
+	
 ~~~
 127.0.0.1:6379> set id lsy
 OK
 127.0.0.1:6379> get id
 "lsy"
 ~~~
+
 	+ 서비스 중지 : \redis-server.exe --service-stop
 	+ 서비스 제거 : \redis-server.exe --service-uninstall
 	+ 비밀번호 인증 시 : auth [password]
@@ -33,12 +35,14 @@ Linux
 ------
 	+ Redis 최신 버전 소스 다운로드 (소스 경로 : wget http://download.redis.io/releases/redis-3.0.1.tar.gz)
 	+ 다운받은 소스 빌드
+	
 ~~~
 $ tar xzf redis-3.0.1.tar.gz
 $ cd redis-3.0.1
 $ sudo make
 $ sudo make install
 ~~~
+
 	+ utils 디렉터리 안에 설치 파일 실행 ($ sudo ./install_server.sh)
 	+ /usr/local/bin/ 디렉터리로 이동하여 서버 실행 (On / Off → $ sudo /etc/init.d/redis_6379 start / $ sudo /etc/init.d/redis_6379 stop)
 
@@ -60,6 +64,7 @@ $ sudo make install
 
 + 최신 보안 패치 적용
 : 최근 발견된 취약점으로 인해 2.8.24 미만 버전, 3.0.6 미만 버전의 사용을 금한다.
+
 ~~~
 CVE-2015-4335 Redis before 2.8.1 and 3.x before 3.0.2 allows remote attackers to execute arbitrary Lua bytecode via the eval command.
 CVE-2015-8080 Redis 2.8.x before 2.8.24 and 3.0.x before 3.0.6
@@ -70,10 +75,12 @@ CVE-2015-8080 Redis 2.8.x before 2.8.24 and 3.0.x before 3.0.6
 	+ 특정 command 변경. 운영에 영향을 미칠 수 있는 특정 command 들을 변경하여 운영       
 		rename-command [target-command] [new-command]  
 		: 공유되는 환경에서는 위험한 command들의 이름을 변경할 수 있다. 예를 들어서 CONFIG command를 추측하기 어려운 다른 값으로 변경할 수 있다. 물론 internal-use tool로는 해당 명령어가 사용하지만, 일반적인 외부 client들에 대해서는 불가능하다.
+		
 ~~~
 예) rename-command CONFIG b840fc02d524045429941cc15f59e41cb7be6c52
 또한 command를 공백으로 rename해서 완전히 사용 불가능하게 할 수도 있다.
 예) rename-command CONFIG ""
 ~~~
+
 + 참고 URL : http://redis.io/topics/security
 
