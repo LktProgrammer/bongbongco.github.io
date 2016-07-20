@@ -9,8 +9,8 @@ Redis
 설치 및 기본 사용법
 ------
 
-	Windows
-	=
+Windows
+=
 + Visual studio 2013(최신 버전 redis)을 이용하여 직접 소스 컴파일 (소스 경로 : https://github.com/MSOpenTech/redis)
 + 생성된 실행 파일 복사 
 + 환경설정파일 복사 (\redis-3.0\msvs\setups\documentation\redis.windows.conf -> 실행 파일이 존재하는 디렉터리에 redis.conf 파일로 복사)
