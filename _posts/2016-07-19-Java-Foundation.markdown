@@ -38,6 +38,63 @@ Servlet, JSP
 ------
 * Servlet : 자바를 이용하여 웹페이지를 동적으로 생성하는 서버 프로그램. (Container가 이해할 수 있게 구성된 순수 자바 코드로만 구성된 것)
 * JSP : Html 내에 Java코드를 블럭화하여 삽입한 것
+
+JDBC
+------
+Java Data Base Connection의 약자로 Java로 데이터베이스를 접근할 때 사용되는 표준 API.
+
+Get, POST
+------
+
+Session, Cookie
+------
+
+MVC 패턴
+------
+
+Interface, Abstract
+------
+
+Call by Reference, Call by Value
+------
+
+Static
+------
+
+Framework
+------
+
+Garbage Collection
+------
+
+Primitive type, Reference type
+------
+
+Wrapper Class
+------
+
+Spring Framework
+------
+
+Thread, Process
+------
+
+접근 제한자
+------
+
+소켓통신(TCP/UDP)
+------
+
+Stack, Queue
+------
+
+Singleton Design Pattern
+------
+
+Index (Database)
+------
+
+
 [참고]
 
 [참고]:http://hahahoho5915.tistory.com/16
