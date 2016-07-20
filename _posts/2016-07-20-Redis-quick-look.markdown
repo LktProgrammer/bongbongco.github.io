@@ -5,8 +5,10 @@ title: 레디스 훑어보기.
 
 Redis
 =====
+
 설치 및 기본 사용법
 ------
+
 Windows
 =
 + Visual studio 2013(최신 버전 redis)을 이용하여 직접 소스 컴파일 (소스 경로 : https://github.com/MSOpenTech/redis)
