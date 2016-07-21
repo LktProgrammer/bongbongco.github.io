@@ -3,6 +3,8 @@ layout: post
 title: Git Please tell me who you are Error.
 ---
 
+* 에러 구문
+
 ~~~
 *** Please tell me who you are.
 
