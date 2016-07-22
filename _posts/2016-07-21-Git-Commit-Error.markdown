@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git Error : Please tell me who you are.
+title: Git Error-Please tell me who you are.
 ---
 
 * 에러 구문
