@@ -267,7 +267,7 @@ Stack, Queue
 	* Linear Queue(선형큐)는 메모리 재사용이 불가능 이러한 문제점을 보완하여 Circular Queue(원형 큐)가 나옴
 
 Singleton Design Pattern
-----ㅅ65444444--
+------
 클래스 인스턴스가 하나만 만들어지도록 하고, 그 인스턴스에 대한 전역 접근을 제공한다.
 
 Index (Database)
@@ -281,8 +281,3 @@ Index (Database)
 * DB에서 자료를 검색하는 두 가지 방법
 	* FTS(Full Table Scan) : 테이블을 처음 부터 끝까지 검색하는 방법
 	* Index Scan : 인덱스를 검색하여 해당 자료의 테이블을 액세스 하는 방법.
-
-
-[참고]
-
-[참고]:http://hahahoho5915.tistory.com/16

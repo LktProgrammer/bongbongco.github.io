@@ -82,4 +82,4 @@ rename-command [target-command] [new-command]
 ~~~
 
 + 참고 URL : http://redis.io/topics/security
-
++ 참고 URL : http://kerocat.tistory.com/1
