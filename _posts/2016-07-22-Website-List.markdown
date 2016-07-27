@@ -9,3 +9,4 @@ title: 참고할 웹 사이트들.
 [Netty 기초 자료](https://github.com/hatemogi/netty-startup)
 [꿀벌 개발일지](http://ohgyun.com/)
 [알고리즘 스터디 자료](http://d2.naver.com/news/4850628)
+[개발을 쉽게 생각하지 마라](http://itmir.tistory.com/172)
