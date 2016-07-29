@@ -10,3 +10,4 @@ title: 참고할 웹 사이트들.
 [꿀벌 개발일지](http://ohgyun.com/)
 [알고리즘 스터디 자료](http://d2.naver.com/news/4850628)
 [개발을 쉽게 생각하지 마라](http://itmir.tistory.com/172)
+[Android-PHP-Mysql 연동](http://cholol.tistory.com/162)
