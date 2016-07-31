@@ -11,3 +11,6 @@ title: 참고할 웹 사이트들.
 [알고리즘 스터디 자료](http://d2.naver.com/news/4850628)  
 [개발을 쉽게 생각하지 마라](http://itmir.tistory.com/172)  
 [Android-PHP-Mysql 연동](http://cholol.tistory.com/162)  
+[Android HttpURLConnection](http://stackoverflow.com/questions/9767952/how-to-add-parameters-to-httpurlconnection-using-post)  
+[Android AsynTask](http://tigerwoods.tistory.com/28)  
+[Android Json Example](http://gangzzang.tistory.com/entry/안드로이드-JSON-JavaScript-Object-Notation)  
