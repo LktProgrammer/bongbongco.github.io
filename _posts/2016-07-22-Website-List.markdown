@@ -14,3 +14,7 @@ title: 참고할 웹 사이트들.
 [Android HttpURLConnection](http://stackoverflow.com/questions/9767952/how-to-add-parameters-to-httpurlconnection-using-post)  
 [Android AsynTask](http://tigerwoods.tistory.com/28)  
 [Android Json Example](http://gangzzang.tistory.com/entry/안드로이드-JSON-JavaScript-Object-Notation)  
+[LG F120k Root](http://forum.xda-developers.com/android/help/guide-lg-optimus-tag-f120-jb-4-1-2-root-t3149951)  
+[안드로이드 와이파이 차단](http://m.blog.naver.com/hanhunh89/220622229984)
+[안드로이드 루팅 차단](http://arabiannight.tistory.com/entry/안드로이드Android-루팅-여부-확인-하기)  
+[안드로이드 어플리케이션 위변조 방지](http://dev.re.kr/70)  
