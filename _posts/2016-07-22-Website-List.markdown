@@ -18,3 +18,4 @@ title: 참고할 웹 사이트들.
 [안드로이드 와이파이 차단](http://m.blog.naver.com/hanhunh89/220622229984)
 [안드로이드 루팅 차단](http://arabiannight.tistory.com/entry/안드로이드Android-루팅-여부-확인-하기)  
 [안드로이드 어플리케이션 위변조 방지](http://dev.re.kr/70)  
+[UI 참고할 블로그](https://github.com/Pluu/pluu.github.io)  
