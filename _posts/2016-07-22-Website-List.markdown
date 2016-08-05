@@ -21,4 +21,5 @@ title: 참고할 웹 사이트들.
 [UI 참고할 블로그](https://github.com/Pluu/pluu.github.io)  
 [CTF Guide](https://trailofbits.github.io/ctf/index.html)  
 [Hacking Team github](https://github.com/hackedteam?tab=repositories)  
-[Javascript 동적로딩](http://okjungsoo.tistory.com/entry/Degrading-Script-Tags)
+[Javascript 동적로딩](http://okjungsoo.tistory.com/entry/Degrading-Script-Tags)  
+[안드로이드 와이파이 사용 감시](http://rerethink.tistory.com/entry/안드로이드-api-WiFi-네트워크-감시-및-처리루틴)  
