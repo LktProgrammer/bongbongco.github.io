@@ -20,4 +20,5 @@ title: 참고할 웹 사이트들.
 [안드로이드 어플리케이션 위변조 방지](http://dev.re.kr/70)  
 [UI 참고할 블로그](https://github.com/Pluu/pluu.github.io)  
 [CTF Guide](https://trailofbits.github.io/ctf/index.html)  
-[Hacking Team github](https://github.com/hackedteam?tab=repositories)
+[Hacking Team github](https://github.com/hackedteam?tab=repositories)  
+[Javascript 동적로딩](http://okjungsoo.tistory.com/entry/Degrading-Script-Tags)
