@@ -65,4 +65,4 @@ dotnet bulid
 dotnet run
 ~~~
 
-![run testapp](https://github.com/bongbongco/bongbongco.github.io/_asset/dotnet_testapp.png)
+![run testapp](/_asset/dotnet_testapp.png)
