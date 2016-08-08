@@ -23,3 +23,4 @@ title: 참고할 웹 사이트들.
 [Hacking Team github](https://github.com/hackedteam?tab=repositories)  
 [Javascript 동적로딩](http://okjungsoo.tistory.com/entry/Degrading-Script-Tags)  
 [안드로이드 와이파이 사용 감시](http://rerethink.tistory.com/entry/안드로이드-api-WiFi-네트워크-감시-및-처리루틴)  
+[REST API 구조 정리 참고할 블로그](http://blog.naver.com/saltynut/120210979446)
