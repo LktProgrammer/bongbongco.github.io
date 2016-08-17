@@ -30,3 +30,6 @@ title: 참고할 웹 사이트들.
 [6 Ways To Avoid Mass Assignment in ASP.NET MVC](http://odetocode.com/blogs/scott/archive/2012/03/11/complete-guide-to-mass-assignment-in-asp-net-mvc.aspx)  
 [OWSAP spring mass assignment](https://www.owasp.org/index.php/CRV2_FrameworkSpecIssuesSpring)  
 [참고할 문서 자료들](http://www.iblue.kr/xe/index.php?document_srl=152973&mid=board_PuKM45)  
+[SQL Injection](http://www.sqlinjection.net)  
+[현재 프로세스가 어떤 권한인지 체크](http://miraggool.tistory.com/26)  
+[재미있는 솔루션 회사](http://www.jiniya.net/wp/archives/12153)  
