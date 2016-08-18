@@ -34,3 +34,4 @@ title: 참고할 웹 사이트들.
 [현재 프로세스가 어떤 권한인지 체크](http://miraggool.tistory.com/26)  
 [재미있는 솔루션 회사](http://www.jiniya.net/wp/archives/12153)  
 [SSL 취약점 분석 도구 참고](https://github.com/hahwul/a2sv)  
+[Packet Editor](http://www.packeteditor.com/?call=72656C65617365)
