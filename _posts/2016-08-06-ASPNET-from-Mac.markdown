@@ -64,5 +64,3 @@ dotnet restore
 dotnet bulid
 dotnet run
 ~~~
-
-![run testapp](/_asset/dotnet_testapp.png)
