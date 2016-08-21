@@ -35,4 +35,5 @@ title: 참고할 웹 사이트들.
 [재미있는 솔루션 회사](http://www.jiniya.net/wp/archives/12153)  
 [SSL 취약점 분석 도구 참고_1](https://github.com/hahwul/a2sv)  
 [SSL 취약점 분석 도구 참고_2](https://github.com/tintinweb)  
-[Packet Editor](http://www.packeteditor.com/?call=72656C65617365)
+[Packet Editor](http://www.packeteditor.com/?call=72656C65617365)  
+[scapy 설치](http://iict-space.heig-vd.ch/ars/2014/12/17/install-and-run-scapy-on-mac-os-x-10-10-yosemite/)  
