@@ -37,4 +37,5 @@ title: 참고할 웹 사이트들.
 [SSL 취약점 분석 도구 참고_2](https://github.com/tintinweb)  
 [Packet Editor](http://www.packeteditor.com/?call=72656C65617365)  
 [scapy 설치](http://iict-space.heig-vd.ch/ars/2014/12/17/install-and-run-scapy-on-mac-os-x-10-10-yosemite/)  
-[CORS 정리 필요!](https://scarfunk.github.io/2016/08/06/CORS/)
+[CORS 정리 필요!](https://scarfunk.github.io/2016/08/06/CORS/)  
+[대표적인 openssl 취약점 정리](http://coffeenix.net/bbs/viewtopic.php?p=10318)  
