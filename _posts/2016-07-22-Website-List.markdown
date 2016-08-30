@@ -40,3 +40,4 @@ title: 참고할 웹 사이트들.
 [CORS 정리 필요!](https://scarfunk.github.io/2016/08/06/CORS/)  
 [대표적인 openssl 취약점 정리](http://coffeenix.net/bbs/viewtopic.php?p=10318)  
 [How do I get process name of an open port in C#?](http://stackoverflow.com/questions/1675077/how-do-i-get-process-name-of-an-open-port-in-c)  
+[openssl 사용법](https://www.madboa.com/geek/openssl/#how-do-i-get-a-list-of-available-ciphers)  
