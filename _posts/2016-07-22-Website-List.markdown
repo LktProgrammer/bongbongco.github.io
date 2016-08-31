@@ -42,3 +42,4 @@ title: 참고할 웹 사이트들.
 [How do I get process name of an open port in C#?](http://stackoverflow.com/questions/1675077/how-do-i-get-process-name-of-an-open-port-in-c)  
 [openssl 사용법](https://www.madboa.com/geek/openssl/#how-do-i-get-a-list-of-available-ciphers)  
 [안드로이드 UI resource 사이트](http://www.sketchappsources.com/)  
+[computer security student](http://www.computersecuritystudent.com/HOME/index.html)
