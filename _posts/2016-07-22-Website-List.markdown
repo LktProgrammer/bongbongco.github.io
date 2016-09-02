@@ -43,4 +43,5 @@ title: 참고할 웹 사이트들.
 [openssl 사용법](https://www.madboa.com/geek/openssl/#how-do-i-get-a-list-of-available-ciphers)  
 [안드로이드 UI resource 사이트](http://www.sketchappsources.com/)  
 [computer security student](http://www.computersecuritystudent.com/HOME/index.html)  
-[UNICODE란 무엇인가](http://norux.me/31)
+[UNICODE란 무엇인가](http://norux.me/31)  
+[php7.0에서 php5.6 사용하기](http://answerofgod.tistory.com/entry/php7-에서-php56-사용하기)  
