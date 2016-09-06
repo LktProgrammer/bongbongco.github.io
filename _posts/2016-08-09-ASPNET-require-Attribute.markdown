@@ -47,11 +47,13 @@ Nope, my hypothesis is false. I just tried posting an object of anonymous type w
 ~~~
 
 dougbu
+
 ~~~
 TryValidateModel() does not model bind and [BindRequired] is not relevant if that's all you're doing. Either add a parameter to your action with the type i.e. do model binding automatically or call TryUpdateModelAsync()
 ~~~
 
 gzak
+
 ~~~
 I believe my action already has a parameter with the type, so model binding should be happening automatically. Something like this:
 
@@ -63,11 +65,13 @@ I think I'm missing something here...
 ~~~
 
 dougbu
+
 ~~~
 In the scenario you're describing, there's no need to call TryValidateModel(). Check ModelState.IsValid and it should be false if no data is provided for the [BindRequired] properties.
 ~~~
 
 gzak
+
 ~~~
 Aha, perfect, that was exactly my problem. Thank you!
 ~~~
