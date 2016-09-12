@@ -6,30 +6,33 @@ title: 개인 프로젝트 목록.
 
 # 1. 프로젝트 현황
 
-|--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
+|--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |No|Project Name|Category|Status|10%|20%|30%|40%|50%|60%|70%|80%|90%|100%|  
 |:-:|-----------|:-----:|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
-|01| processhacker 소스분석||Start|■|||||||||    
-|02| cheatEngine 소스분석||Start|■|||||||||    
-|03| 졸음운전 방지 안드로이드 앱||Working|■|■|■|■|■|■||||   
-|04| Extension Spoofer||Working|■|||||||||   
-|05| SSL Checker(Freak)||Complete|■|■|■|■|■|■|■|■|■|   
-|06| SSL Checker(logjam)||Pause||||||||||   
-|07| SSL Checker(heartbleed)||Pause||||||||||   
-|08| SSL Checker(drown)||Pause||||||||||   
-|09| TangledEmotion(Ransomeware)||Pause||||||||||   
-|10| OfficailFriend(Client)||Pause|■|■|■|■||||||   
-|11| OfficailFriend(Server)||Pause|■|||||||||   
-|12| ISP 우회 Proxy Tool||Pause||||||||||   
-|13| Java Algorithm||Pause|■|■|■|||||||   
-|14| Sim Test||Pause|■|■|■|■|■|||||   
-|15| Evernote 문서 이관||Pause|■|■|■|||||||   
-|16| Slide Share Upload ||Working|■|■||||||||   
-|17| Rootme(Web)||Pause|■|||||||||   
-|18| Rootme(App)||Pause||||||||||   
-|19| Rootme(Cracking)||Pause||||||||||   
-|20| Rootme(Network)||Pause||||||||||   
-|21| Rootme(Programming)||Pause||||||||||   
-|--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
-|01| 문자열이란_무엇인가-1편 ||Complete|■|■|■|■|■|■|■|■|■|    
-|--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
+|01| processhacker 소스분석|소스 분석|Start|■|||||||||    
+|02| cheatEngine 소스분석|소스 분석|Start|■|||||||||    
+|--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
+|01| 졸음운전 방지 안드로이드 앱|프로그래밍|Working|■|■|■|■|■|■||||   
+|02| Extension Spoofer|프로그래밍|Working|■|||||||||   
+|03| SSL Checker(Freak)|프로그래밍|Complete|■|■|■|■|■|■|■|■|■|   
+|04| SSL Checker(logjam)|프로그래밍|Pause||||||||||   
+|05| SSL Checker(heartbleed)|프로그래밍|Pause||||||||||   
+|06| SSL Checker(drown)|프로그래밍|Pause||||||||||   
+|07| TangledEmotion(Ransomeware)|프로그래밍|Pause||||||||||   
+|08| OfficailFriend(Client)|프로그래밍|Pause|■|■|■|■||||||   
+|09| OfficailFriend(Server)|프로그래밍|Pause|■|||||||||   
+|10| ISP 우회 Proxy Tool|프로그래밍|Pause||||||||||   
+|11| Java Algorithm|프로그래밍|Pause|■|■|■|||||||   
+|12| Sim Test|프로그래밍|Pause|■|■|■|■|■|||||   
+|--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
+|01| Rootme(Web)|실 습|Pause|■|||||||||   
+|02| Rootme(App)|실 습|Pause||||||||||   
+|03| Rootme(Cracking)|실 습|Pause||||||||||   
+|04| Rootme(Network)|실 습|Pause||||||||||   
+|05| Rootme(Programming)|실 습|Pause||||||||||   
+|06| CodeEngine|실 습|Pause||||||||||   
+|--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
+|01| 문자열이란_무엇인가-1편 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|    
+|02| Evernote 문서 이관||Pause|■|■|■|||||||   
+|03| Slide Share Upload ||Working|■|■||||||||   
+|--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
