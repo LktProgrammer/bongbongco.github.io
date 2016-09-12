@@ -13,17 +13,17 @@ title: 개인 프로젝트 목록.
 |02| cheatEngine 소스분석|소스 분석|Start|■|||||||||    
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |01| 졸음운전 방지 안드로이드 앱|프로그래밍|Working|■|■|■|■|■|■||||   
-|02| Extension Spoofer|프로그래밍|Working|■|||||||||   
-|03| SSL Checker(Freak)|프로그래밍|Complete|■|■|■|■|■|■|■|■|■|   
-|04| SSL Checker(logjam)|프로그래밍|Pause||||||||||   
-|05| SSL Checker(heartbleed)|프로그래밍|Pause||||||||||   
-|06| SSL Checker(drown)|프로그래밍|Pause||||||||||   
-|07| TangledEmotion(Ransomeware)|프로그래밍|Pause||||||||||   
-|08| OfficailFriend(Client)|프로그래밍|Pause|■|■|■|■||||||   
-|09| OfficailFriend(Server)|프로그래밍|Pause|■|||||||||   
-|10| ISP 우회 Proxy Tool|프로그래밍|Pause||||||||||   
-|11| Java Algorithm|프로그래밍|Pause|■|■|■|||||||   
-|12| Sim Test|프로그래밍|Pause|■|■|■|■|■|||||   
+|02| Extension Spoofer|구현|Working|■|||||||||   
+|03| SSL Checker(Freak)|구현|Complete|■|■|■|■|■|■|■|■|■|   
+|04| SSL Checker(logjam)|구현|Pause||||||||||   
+|05| SSL Checker(heartbleed)|구현|Pause||||||||||   
+|06| SSL Checker(drown)|구현|Pause||||||||||   
+|07| TangledEmotion(Ransomeware)|구현|Pause||||||||||   
+|08| OfficailFriend(Client)|구현|Pause|■|■|■|■||||||   
+|09| OfficailFriend(Server)|구현|Pause|■|||||||||   
+|10| ISP 우회 Proxy Tool|구현|Pause||||||||||   
+|11| Java Algorithm|구현|Pause|■|■|■|||||||   
+|12| Sim Test|구현|Pause|■|■|■|■|■|||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |01| Rootme(Web)|실 습|Pause|■|||||||||   
 |02| Rootme(App)|실 습|Pause||||||||||   
