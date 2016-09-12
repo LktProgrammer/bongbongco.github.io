@@ -23,6 +23,10 @@ title: 개인 프로젝트 목록.
 |14| Sim Test|Pause|■|■|■|■|■|||||   
 |15| Evernote 문서 이관|Pause|■|■|■|||||||   
 |16| Slide Share Upload |Working|■|■||||||||   
-|17| Extension Spoofer(Burp version)|Pause||||||||||   
+|17| Rootme(Web)|Pause|■|||||||||   
+|18| Rootme(App)|Pause||||||||||   
+|19| Rootme(Cracking)|Pause||||||||||   
+|20| Rootme(Network)|Pause||||||||||   
+|21| Rootme(Programming)|Pause||||||||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
 
