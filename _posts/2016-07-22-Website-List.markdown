@@ -50,3 +50,4 @@ title: 참고할 웹 사이트들.
 [Hack News-1](http://www.geektech.in)  
 [Hack News-2](http://thehackernews.com/)  
 [exploit News-1](http://www.geekstech.co.kr/)  
+[Delphi](http://tenlie10.tistory.com/69)  
