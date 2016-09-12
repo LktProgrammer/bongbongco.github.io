@@ -31,8 +31,12 @@ title: 개인 프로젝트 목록.
 |04| Rootme(Network)|실 습|Pause||||||||||   
 |05| Rootme(Programming)|실 습|Pause||||||||||   
 |06| CodeEngine|실 습|Pause||||||||||   
+|07| Postman|실 습|Pause||||||||||   
+|08| Postman Interceptor|실 습|Pause||||||||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |01| 문자열이란_무엇인가-1편 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|■|    
 |02| Evernote 문서 이관|문서 작성|Pause|■|■|■|||||||   
 |03| Slide Share Upload |문서 작성|Working|■|■||||||||   
+|04| Postman |문서 작성|Working|■|■||||||||   
+|05| Postman Interceptor |문서 작성|Working|■|■||||||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
