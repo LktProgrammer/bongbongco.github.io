@@ -21,5 +21,7 @@ title: 개인 프로젝트 목록.
 |12|ISP 우회 Proxy Tool|Pause||||||||||   
 |13|Java Algorithm|Pause|■|■|■|||||||   
 |14|Sim Test|Pause|■|■|■|■|■|||||   
+|15|Evernote 문서 이관|Pause|■|■|■|||||||   
+|16|Slide Share Upload |Working|■|■||||||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
 
