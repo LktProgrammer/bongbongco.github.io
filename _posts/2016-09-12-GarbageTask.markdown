@@ -9,9 +9,9 @@ title: 개인 프로젝트 목록.
 |:-:|-----------|:-----:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|  
 |01|processhacker 소스분석|Start|■|||||||||    
 |02|cheatEngine 소스분석|Start|■|||||||||    
-|03|졸음운전 방지 안드로이드 앱|Start|■|■|■|■|■|■||||   
-|04|Extension Spoofer|Start|■|||||||||   
-|05|SSL Checker(Freak)|Start|■|■|■|■|■|■|■|■|■|   
+|03|졸음운전 방지 안드로이드 앱|Working|■|■|■|■|■|■||||   
+|04|Extension Spoofer|Working|■|||||||||   
+|05|SSL Checker(Freak)|Complete|■|■|■|■|■|■|■|■|■|   
 |06|SSL Checker(logjam)|Pause||||||||||   
 |07|SSL Checker(heartbleed)|Pause||||||||||   
 |08|SSL Checker(drown)|Pause||||||||||   
@@ -23,5 +23,6 @@ title: 개인 프로젝트 목록.
 |14|Sim Test|Pause|■|■|■|■|■|||||   
 |15|Evernote 문서 이관|Pause|■|■|■|||||||   
 |16|Slide Share Upload |Working|■|■||||||||   
+|17|Extension Spoofer(Burp version)|Pause||||||||||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----|  
 
