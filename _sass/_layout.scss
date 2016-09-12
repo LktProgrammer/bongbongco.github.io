@@ -196,15 +196,17 @@
 
 table{
     border-collapse: collapse;
-    border-spacing: 0;
+    border-spacing: 1;
     border:1px solid #000000;
 }
 
 th{
+    border-spacing: 1;
     border:1px solid #000000;
 }
 
 td{
+    border-spacing: 1;
     border:1px solid #000000;
 }
 
