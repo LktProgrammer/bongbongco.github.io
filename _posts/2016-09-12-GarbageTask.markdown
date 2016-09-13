@@ -31,14 +31,14 @@ title: 개인 프로젝트 목록.
 |T_04| Rootme(Network)|실 습|Pause||||||||||   
 |T_05| Rootme(Programming)|실 습|Pause||||||||||   
 |T_06| CodeEngine|실 습|Pause||||||||||   
-|T_07| Postman|실 습|Pause||||||||||   
-|T_08| Postman Interceptor|실 습|Pause||||||||||   
+|T_07| Postman|실 습|Complete|■|■|■|■|■|■|■|■|■|■|   
+|T_08| Postman Interceptor|실 습|Complete|■|■|■|■|■|■|■|■|■|■|   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |W_01| 문자열이란_무엇인가-1편 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|■|    
 |W_02| Evernote 문서 이관|문서 작성|Pause|■|■|■|||||||   
 |W_03| Slide Share Upload |문서 작성|Working|■|■||||||||   
-|W_04| Postman |문서 작성|Working|■|■||||||||   
-|W_05| Postman Interceptor |문서 작성|Working|■|■||||||||   
+|W_04| Postman |문서 작성|Working|■|||||||||   
+|W_05| Postman Interceptor |문서 작성|Working|■|||||||||   
 |W_06| Freak 취약점 분석 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|■|  
 |W_07| 암호 기법의 소개 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|■|  
 |W_08| 인터파크 개인정보 유출 사고 정리 |문서 작성|Complete|■|■|■|■|■|■|■|■|■|■|  
