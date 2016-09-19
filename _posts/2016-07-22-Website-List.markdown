@@ -51,3 +51,4 @@ title: 참고할 웹 사이트들.
 [Hack News-2](http://thehackernews.com/)  
 [exploit News-1](http://www.geekstech.co.kr/)  
 [Delphi](http://tenlie10.tistory.com/69)  
+[숨겨진 프로세스 찾는 방법](http://blog.naver.com/ever43/100051440347)  
