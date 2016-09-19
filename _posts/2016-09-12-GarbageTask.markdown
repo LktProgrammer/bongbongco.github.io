@@ -24,6 +24,8 @@ title: 개인 프로젝트 목록.
 |C_10| ISP 우회 Proxy Tool|구현|Pause||||||||||   
 |C_11| Java Algorithm|구현|Pause|■|■|■|||||||   
 |C_12| Sim Test|구현|Pause|■|■|■|■|■|||||   
+|C_13| AppScan report 생성기|구현|Pause|■|■|■|■|■|■|■|■|■||   
+|C_14| AppScan report → excel|구현|Pause|■|■|■|■|■|■|■|■|■||   
 |--+-----------+------+---+---+---+---+---+---+---+---+---+----+----|  
 |T_01| Rootme(Web)|실 습|Pause|■|||||||||   
 |T_02| Rootme(App)|실 습|Pause||||||||||   
