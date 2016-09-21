@@ -52,3 +52,4 @@ title: 참고할 웹 사이트들.
 [exploit News-1](http://www.geekstech.co.kr/)  
 [Delphi](http://tenlie10.tistory.com/69)  
 [숨겨진 프로세스 찾는 방법](http://blog.naver.com/ever43/100051440347)  
+[치트엔진 기능 정리](http://haeyum.com/xe/index.php?mid=cheatengine&page=2&document_srl=263)
