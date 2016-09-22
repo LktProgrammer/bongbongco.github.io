@@ -57,3 +57,4 @@ title: 참고할 웹 사이트들.
 [게임 보안 침해에 대한 기술적 대응 방안 연구](https://www.kocca.kr/knowledge/research/__icsFiles/afieldfile/2010/05/01/oEGNnT42qgf4.pdf)  
 [온라인 게임 해킹 대응 가이드](http://www.kisa.or.kr/jsp/common/libraryDown.jsp?folder=011165)  
 [xorcise writeup](http://solution-36.blogspot.kr/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)  
+[with pwntools writeup](https://github.com/Gallopsled/pwntools-write-ups)  
