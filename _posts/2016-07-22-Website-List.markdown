@@ -56,3 +56,4 @@ title: 참고할 웹 사이트들.
 [온라인 게임 보안 대응사례](http://myucc.cafe24.com/pdf/%EC%84%B8%EC%85%983/(1)_%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%8C%EC%9E%84%EB%B3%B4%EC%95%88%20%EB%8C%80%EC%9D%91%20%EC%82%AC%EB%A1%80%20(%EC%9D%B4%ED%99%8D%EC%84%A0).pdf)  
 [게임 보안 침해에 대한 기술적 대응 방안 연구](https://www.kocca.kr/knowledge/research/__icsFiles/afieldfile/2010/05/01/oEGNnT42qgf4.pdf)  
 [온라인 게임 해킹 대응 가이드](http://www.kisa.or.kr/jsp/common/libraryDown.jsp?folder=011165)  
+[xorcise writeup](http://solution-36.blogspot.kr/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)  
