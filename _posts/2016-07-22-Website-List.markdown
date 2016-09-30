@@ -60,3 +60,4 @@ title: 참고할 웹 사이트들.
 [with pwntools writeup](https://github.com/Gallopsled/pwntools-write-ups)  
 [SQL Test Site](http://sqlfiddle.com/)  
 [해커의 클라이언트 공격에 저항하기 위한 꼼수들 #1(게임개발포에버)](http://www.gamedevforever.com/84)  
+[게임 해킹을 막는 보안전략](http://blog.naver.com/skydrm/50042183526)  
