@@ -59,3 +59,4 @@ title: 참고할 웹 사이트들.
 [xorcise writeup](http://solution-36.blogspot.kr/2014/09/csaw-2014-exploit-500-writeup-xorcise.html)  
 [with pwntools writeup](https://github.com/Gallopsled/pwntools-write-ups)  
 [SQL Test Site](http://sqlfiddle.com/)  
+[해커의 클라이언트 공격에 저항하기 위한 꼼수들 #1(게임개발포에버)](http://www.gamedevforever.com/84)  
