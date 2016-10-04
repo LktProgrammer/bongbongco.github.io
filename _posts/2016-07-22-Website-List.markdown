@@ -62,3 +62,4 @@ title: 참고할 웹 사이트들.
 [해커의 클라이언트 공격에 저항하기 위한 꼼수들 #1(게임개발포에버)](http://www.gamedevforever.com/84)  
 [게임 해킹을 막는 보안전략](http://blog.naver.com/skydrm/50042183526)  
 [치트엔진 만들기](http://blog.naver.com/PostView.nhn?blogId=sjm961104&logNo=220181977110&parentCategoryNo=&categoryNo=28&viewDate=&isShowPopularPosts=false&from=section)  
+[heartbleed hex code analysis](http://stackoverflow.com/questions/23033219/heartbleed-python-test-script)
