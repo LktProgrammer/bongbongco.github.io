@@ -39,9 +39,9 @@ https://{ip}:3000
 Grafana TLS v1.0 제거
 ------
 
-+ 소스 파일 수정
-/pkg/cmd/grafana-server/server.go  
-/pkg/cmd/grafana-server/web.go  
++ 소스 파일 수정  
+  + /pkg/cmd/grafana-server/server.go  
+  + /pkg/cmd/grafana-server/web.go  
 
 ~~~
 import (
