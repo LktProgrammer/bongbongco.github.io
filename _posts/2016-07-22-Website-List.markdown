@@ -69,5 +69,5 @@ title: 참고할 웹 사이트들.
 [Make Flask blog_source](https://github.com/coleifer/peewee/tree/master/examples/blog)  
 [pandoc, github](http://blog.appkr.kr/work-n-play/pandoc-gitbook-%EC%A0%84%EC%9E%90%EC%B6%9C%ED%8C%90/)  
 [python line bot api](https://github.com/studio3104/line-bot-sdk-python)  
-[python pyenv + virtualenv + autoenv](https://dobest.io/how-to-set-python-dev-env/)
-[안수찬 Blog](https://dobest.io/)
+[python pyenv + virtualenv + autoenv](https://dobest.io/how-to-set-python-dev-env/)  
+[안수찬 Blog](https://dobest.io/)  
