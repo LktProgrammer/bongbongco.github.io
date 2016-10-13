@@ -71,3 +71,4 @@ title: 참고할 웹 사이트들.
 [python line bot api](https://github.com/studio3104/line-bot-sdk-python)  
 [python pyenv + virtualenv + autoenv](https://dobest.io/how-to-set-python-dev-env/)  
 [안수찬 Blog](https://dobest.io/)  
+[디자인 문서 만들 때](https://www.lucidpress.com/)
