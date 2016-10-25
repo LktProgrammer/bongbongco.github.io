@@ -82,3 +82,4 @@ title: 참고할 웹 사이트들.
 [파이썬 두 리스트 비교하여 중복되지 않는 원소만 반환](http://hashcode.co.kr/questions/960/%EB%91%90-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%84%9C%EB%A1%9C-%EC%97%86%EB%8A%94-%EC%9B%90%EC%86%8C%EB%A7%8C-return%EB%B0%9B%EC%9C%BC%EB%A0%A4%EA%B3%A0-%ED%95%A9%EB%8B%88%EB%8B%A4)  
 [PyMysql 사용법](http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC)  
 [APScheculer Usage](http://apscheduler.readthedocs.io/en/v2.1.2/index.html)  
+[Flask Pagination Usage](https://pythonhosted.org/Flask-paginate/)  
