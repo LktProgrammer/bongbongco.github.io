@@ -83,3 +83,4 @@ title: 참고할 웹 사이트들.
 [PyMysql 사용법](http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC)  
 [APScheculer Usage](http://apscheduler.readthedocs.io/en/v2.1.2/index.html)  
 [Flask Pagination Usage](https://pythonhosted.org/Flask-paginate/)  
+[baidu search - python](http://xi4okv.lofter.com/post/177108_244b3f0)  
