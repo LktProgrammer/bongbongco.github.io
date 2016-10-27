@@ -89,3 +89,4 @@ title: 참고할 웹 사이트들.
 [Celery를 이용한 긴 작업 처리](https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html)  
 [facebook python API Reference](http://facebook-sdk.readthedocs.io/en/latest/api.html)  
 [tweepy- tweet a message from python script](http://nodotcom.org/python-twitter-tutorial.html)  
+[Flask에서 Redis를 사용하여 세션 관리하는 샘플](http://egloos.zum.com/mcchae/v/11184587)  
