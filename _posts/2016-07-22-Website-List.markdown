@@ -86,3 +86,4 @@ title: 참고할 웹 사이트들.
 [baidu search - python](http://xi4okv.lofter.com/post/177108_244b3f0)  
 [yahoo search - python](https://github.com/drneox/yahoo/)  
 [mysql에서 Index column size too large. 에러 메시지에 대한 처리](http://www.popit.kr/mysql-index-column-size-too-large-error/)  
+[Celery를 이용한 긴 작업 처리](https://spoqa.github.io/2012/05/29/distribute-task-with-celery.html)  
