@@ -84,4 +84,5 @@ title: 참고할 웹 사이트들.
 [APScheculer Usage](http://apscheduler.readthedocs.io/en/v2.1.2/index.html)  
 [Flask Pagination Usage](https://pythonhosted.org/Flask-paginate/)  
 [baidu search - python](http://xi4okv.lofter.com/post/177108_244b3f0)  
-[yahoo search - python](https://github.com/drneox/yahoo/)
+[yahoo search - python](https://github.com/drneox/yahoo/)  
+[mysql에서 Index column size too large. 에러 메시지에 대한 처리](http://www.popit.kr/mysql-index-column-size-too-large-error/)  
