@@ -92,3 +92,4 @@ title: 참고할 웹 사이트들.
 [Flask에서 Redis를 사용하여 세션 관리하는 샘플](http://egloos.zum.com/mcchae/v/11184587)  
 [china hacker](https://tennc.github.io/)  
 [공부 자료](http://www.diano.kr/index.php?mid=board_optC78)  
+[cyber security wiki - china](https://www.sec-wiki.com)  
