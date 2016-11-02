@@ -94,4 +94,5 @@ title: 참고할 웹 사이트들.
 [공부 자료](http://www.diano.kr/index.php?mid=board_optC78)  
 [cyber security wiki - china](https://www.sec-wiki.com)  
 [Making Python Proxy server](http://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/)  
-[Jython download Page](http://www.jython.org/downloads.html)
+[Jython Download Page](http://www.jython.org/downloads.html)  
+[Python Usage Burp Extension API ](http://blog.portswigger.net/2012/12/writing-your-first-burp-extension.html)  
