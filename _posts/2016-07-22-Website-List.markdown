@@ -95,4 +95,4 @@ title: 참고할 웹 사이트들.
 [cyber security wiki - china](https://www.sec-wiki.com)  
 [Making Python Proxy server](http://null-byte.wonderhowto.com/how-to/sploit-make-proxy-server-python-0161232/)  
 [Jython Download Page](http://www.jython.org/downloads.html)  
-[Python Usage Burp Extension API ](http://blog.portswigger.net/2012/12/writing-your-first-burp-extension.html)  
+[Python Usage Burp Extension API ](https://labs.neohapsis.com/2013/09/16/burp-extensions-in-python-pentesting-custom-web-services/)  
