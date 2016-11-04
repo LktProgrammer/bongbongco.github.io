@@ -99,3 +99,4 @@ title: 참고할 웹 사이트들.
 [official Burp API docs](https://portswigger.net/burp/extender/api/index.html)  
 [Pwnable.kr - kaist CTF](http://pwnable.kr/)  
 [Awesome Security](http://www.hakawati.co.kr/352)  
+[phrack.org - 취약점 참고 사이트](http://phrack.org/)  
