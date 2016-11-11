@@ -107,3 +107,4 @@ title: 참고할 웹 사이트들.
 [NetDrone](http://wiki.vogie.net/origin/Main_Page)  
 [Naver API C# example](http://blog.danggun.net/3460)  
 [Python - MananicalSoup Form Request ](https://github.com/hickford/MechanicalSoup)  
+[Python - Personal Wiki](http://ecolemodev.wikinamu.com/파이썬#header-2-2)  
