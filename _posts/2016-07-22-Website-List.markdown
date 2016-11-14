@@ -110,3 +110,4 @@ title: 참고할 웹 사이트들.
 [Python - Personal Wiki](http://ecolemodev.wikinamu.com/파이썬#header-2-2)  
 [Game development DC Incide](http://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=41&page=1)  
 [Unity 3D Survivev game lecture](https://unity3d.com/kr/learn/tutorials/projects/survival-shooter/environment?playlist=17144)  
+[졸음이 달아나는 Unity 게임 소스코드 분석](http://www.slideshare.net/ddayinhwang9/unity-61098032)  
