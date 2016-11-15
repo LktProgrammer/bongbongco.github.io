@@ -114,3 +114,4 @@ title: 참고할 웹 사이트들.
 [Utage](http://madnesslabo.net/utage/?lang=en)  
 [ASP.NET 강좌](http://www.egocube.pe.kr/)  
 [snort rule community](https://snortrules.wordpress.com/)  
+[Null Pointer Dereference](http://story.wisedog.net/null-pointer-dereference-%EB%9E%80/)  
