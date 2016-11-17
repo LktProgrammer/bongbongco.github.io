@@ -121,3 +121,4 @@ title: 참고할 웹 사이트들.
 [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)  
 [Google Android Design](https://developer.android.com/design/index.html)  
 [Sony vegas Intro templates](http://www.ravenprodesign.com/)  
+[Mac - Edit host file](http://mingu.kr/74)  
