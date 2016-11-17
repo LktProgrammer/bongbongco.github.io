@@ -124,3 +124,4 @@ title: 참고할 웹 사이트들.
 [Mac - Edit host file](http://mingu.kr/74)  
 [intro movie - 1](http://www.intromaker.net/)  
 [intro movie - 2](http://introchamp.com/)  
+[Mac - Record Screen](http://macnews.tistory.com/560)  
