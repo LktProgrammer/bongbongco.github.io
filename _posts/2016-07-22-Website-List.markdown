@@ -122,3 +122,5 @@ title: 참고할 웹 사이트들.
 [Google Android Design](https://developer.android.com/design/index.html)  
 [Sony vegas Intro templates](http://www.ravenprodesign.com/)  
 [Mac - Edit host file](http://mingu.kr/74)  
+[intro movie - 1](http://www.intromaker.net/)  
+[intro movie - 2](http://introchamp.com/)  
