@@ -130,3 +130,4 @@ title: 참고할 웹 사이트들.
 [Android Reversing](http://blackcon.tistory.com/144)  
 [python logging](http://gyus.me/?p=418)  
 [flask semantic ui example](https://github.com/chuckbutler/flask-semantic-template)  
+[Objective - C](http://ivis.cwnu.ac.kr/tc/dongupak/attachment/1226670577.pdf)  
