@@ -134,3 +134,5 @@ title: 참고할 웹 사이트들.
 [Google Extension Tutorials](https://developer.chrome.com/extensions/getstarted)  
 [hacking documents](http://agz.es/)  
 [Haskell Side](https://e.xtendo.org/haskell/ko/monad_fear/slide#58)  
+[data science - kaggle](https://www.kaggle.com/)  
+[data science - dataquest](https://www.dataquest.io)  
