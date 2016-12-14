@@ -139,3 +139,4 @@ title: 참고할 웹 사이트들.
 [머신러닝과 악성코드](http://leekyu.net/board_tJMI65/4400)  
 [SQL Injection Wargame](http://los.eagle-jump.org)  
 [using-dashes-between-string-literals-in-javascript](http://stackoverflow.com/questions/5876091/using-dashes-between-string-literals-in-javascript)  
+[Encoding URL](http://regularmotion.kr/url-encoding-url/)  
