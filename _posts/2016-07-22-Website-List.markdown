@@ -141,3 +141,4 @@ title: 참고할 웹 사이트들.
 [using-dashes-between-string-literals-in-javascript](http://stackoverflow.com/questions/5876091/using-dashes-between-string-literals-in-javascript)  
 [Encoding URL](http://regularmotion.kr/url-encoding-url/)  
 [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)  
+[AI Study](http://www.aistudy.co.kr/)  
