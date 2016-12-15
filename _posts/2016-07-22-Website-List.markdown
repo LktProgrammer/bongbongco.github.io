@@ -142,3 +142,4 @@ title: 참고할 웹 사이트들.
 [Encoding URL](http://regularmotion.kr/url-encoding-url/)  
 [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)  
 [AI Study](http://www.aistudy.co.kr/)  
+[대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)  
