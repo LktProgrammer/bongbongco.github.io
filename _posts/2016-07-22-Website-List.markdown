@@ -143,3 +143,4 @@ title: 참고할 웹 사이트들.
 [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)  
 [AI Study](http://www.aistudy.co.kr/)  
 [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)  
+[What-I-have-learned-after-doing-50-Kaggle-competitions](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-6What-I-have-learned-after-doing-50-Kaggle-competitions..pdf)  
