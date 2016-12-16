@@ -146,3 +146,5 @@ title: 참고할 웹 사이트들.
 [What-I-have-learned-after-doing-50-Kaggle-competitions](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-6What-I-have-learned-after-doing-50-Kaggle-competitions..pdf)  
 [Microsoft 악성코드 Classification 챌린지 소개](http://cpuu.postype.com/post/457828/)  
 [나는 시간강사다](http://slownews.kr/author/3091201lin/page/3)  
+[링크드인의 Big Data Recommendation Products - 어제의 데이터를 통해 내일을 예측한다](https://deview.kr/2013/detail.nhn?topicSeq=36)  
+[LinkedIn의 Data Science - 왜 '과학'인가?](https://deview.kr/2014/session?seq=29)  
