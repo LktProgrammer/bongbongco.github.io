@@ -145,3 +145,4 @@ title: 참고할 웹 사이트들.
 [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)  
 [What-I-have-learned-after-doing-50-Kaggle-competitions](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-6What-I-have-learned-after-doing-50-Kaggle-competitions..pdf)  
 [Microsoft 악성코드 Classification 챌린지 소개](http://cpuu.postype.com/post/457828/)  
+[나는 시간강사다](http://slownews.kr/author/3091201lin/page/3)  
