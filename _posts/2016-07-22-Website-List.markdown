@@ -148,3 +148,4 @@ title: 참고할 웹 사이트들.
 [나는 시간강사다](http://slownews.kr/author/3091201lin/page/3)  
 [링크드인의 Big Data Recommendation Products - 어제의 데이터를 통해 내일을 예측한다](https://deview.kr/2013/detail.nhn?topicSeq=36)  
 [LinkedIn의 Data Science - 왜 '과학'인가?](https://deview.kr/2014/session?seq=29)  
+[How to Setup network on centos 7](http://www.krizna.com/centos/setup-network-centos-7/)  
