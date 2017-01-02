@@ -18,5 +18,6 @@ twitter_username: bongbongco
 github_username:  bongbongco
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: maruku
 highlighter: rouge
