@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pwnable.kr - shellshock.
+title: pwnable.kr - coin1.
 categories: [CTF]
 tags: [Exploit, CTF, pwnable.kr]
 fullview: false
