@@ -1,23 +1,44 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Site settings
-title: Welcome! My name is LeeSeungyong.
-email: bongbongco@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: bongbongco
-github_username:  bongbongco
-
-# Build settings
-#markdown: kramdown
-markdown: maruku
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
 highlighter: rouge
+markdown: kramdown
+disqus: bongbongco
+google_analytics: UA-89645509-1
+# Enter your Facebook app-code
+facebook_user_id: bongbongco
+facebook_app_id: 1661442370813352
+
+title: My name is Lee Seungyong.
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: Hello! My name is Lee Seungyong.
+
+description: bongbongco
+author:
+  name: Lee Seungyong
+  email: bongbongco@gmail.com
+  github: bongbongco
+  twitter: bongbongco
+  linkedin: seungyong-lee-266977110
+  bio: Pentest, Secure Coding, Writting Secure Configuration Guide, Automation Script.
+  email_md5: cf56035d84925dba41d87a4b01e09e60
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+about_path: about.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate

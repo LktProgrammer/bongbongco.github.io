@@ -1,8 +1,0 @@
----
-layout: post
-title: 암호 기법의 소개.
----
-
-암호 기법의 기초 지식을 정리하였습니다.  
-혹시 해당 내용을 모르셨던 분들이 계시다면 읽고 도움이 되셨으면 좋겠습니다.
-[암호 기법의 소개.pdf](https://github.com/bongbongco/bongbongco.github.io/blob/master/_asset/암호%20기법의%20소개.pdf)
