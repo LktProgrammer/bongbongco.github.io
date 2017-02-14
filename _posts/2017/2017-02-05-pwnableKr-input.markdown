@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-pwnable.kr 의 여섯 번째 문제인 ‘input’ 입니다. 해당 문제는 리눅스 시스템 프로그래밍에 대한 이해가 있다면 풀 수 있습니다.  
+pwnable.kr 의 일곱 번째 문제인 ‘input’ 입니다. 해당 문제는 리눅스 시스템 프로그래밍에 대한 이해가 있다면 풀 수 있습니다.  
   
     
 #### 1.  

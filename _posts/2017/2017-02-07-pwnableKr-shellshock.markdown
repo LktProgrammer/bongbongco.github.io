@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-pwnable.kr 의 아홉 번째 문제인 ‘shellshock’ 입니다. 해당 문제는 쉘 쇼크 취약점에 대한 이해가 있다면 풀 수 있습니다.  
+pwnable.kr 의 열 번째 문제인 ‘shellshock’ 입니다. 해당 문제는 쉘 쇼크 취약점에 대한 이해가 있다면 풀 수 있습니다.  
   
     
 #### 1.  

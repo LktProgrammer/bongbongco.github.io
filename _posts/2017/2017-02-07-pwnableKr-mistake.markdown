@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-pwnable.kr 의 여덟 번째 문제인 ‘mistake’ 입니다. 해당 문제는 연산자 우선순위에 대한 이해가 있다면 풀 수 있습니다.  
+pwnable.kr 의 아홉 번째 문제인 ‘mistake’ 입니다. 해당 문제는 연산자 우선순위에 대한 이해가 있다면 풀 수 있습니다.  
   
     
 #### 1.  

@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-pwnable.kr 의 일곱 번째 문제인 ‘leg’ 입니다. 해당 문제는 ARM 어셈블리어에 대한 이해가 있다면 풀 수 있습니다.  
+pwnable.kr 의 여덟 번째 문제인 ‘leg’ 입니다. 해당 문제는 ARM 어셈블리어에 대한 이해가 있다면 풀 수 있습니다.  
   
     
 #### 1.  

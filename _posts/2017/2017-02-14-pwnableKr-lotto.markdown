@@ -8,7 +8,7 @@ comments: true
 published: true
 ---
 
-pwnable.kr 의 열두 번째 문제인 ‘lotto’ 입니다. 해당 문제는 프로그래밍과 아스키 코드에 대한 이해가 있다면 풀 수 있습니다.  
+pwnable.kr 의 열세 번째 문제인 ‘lotto’ 입니다. 해당 문제는 프로그래밍과 아스키 코드에 대한 이해가 있다면 풀 수 있습니다.  
  
     
 #### 1.  
