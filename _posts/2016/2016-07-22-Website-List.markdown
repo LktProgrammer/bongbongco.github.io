@@ -167,3 +167,4 @@ published: true
 [radare manual](http://agz.es/Reverse-Engineering/Basic/Manual%20Binary%20Mangling%20with%20radare%20%5Bbinoopang%5D.pdf)  
 [parkjonghyuk professor](http://www.parkjonghyuk.net/index.php)  
 [BOB blog](http://bob3rdnewbie.tistory.com/301)  
+[HTML로 json 전송](https://darobin.github.io/formic/specs/json/)  
