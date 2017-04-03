@@ -1,0 +1,60 @@
+---
+layout: post
+title: Python Unittest(PyUnit)
+categories: [Programming]
+tags: [Programming, Python]
+fullview: false
+comments: true
+published: true
+use_math: false
+---
+
+**Python Unittest Summary**
+
+* unittest.TestCase : runTest(self), setUp(self), tearDown(self) 이렇게 세 개의 메소드를 오버라이드하면 된다.
+  * runTest(self) : assertion, exception 등이 발생하면 테스트 실패.
+  * setUp(self) : 테스트 하기 전에 필요한 설정으로 여러 테스트 케이스가 공유하는 설정을 위해 사용되며, 여러 테스트 케이스가 상속하는 베이스 클래스에 정의된다.
+  * tearDown(self) : setUp이 성공했다면, runTest 결과에 상관없이 tearDown이 실행된다.
+
+테스트 케이스를 실행하면, setUp → runTest → tearDown 순서로 실행된다. runTest가 아닌 이름을 사용했을 때에는 생성자에 메소드 이름을 주면 해당 테스트 케이스가 생성된다.
+
+* unittest.TestSuite : unittest.TestCase 혹은 unittest.TestSuite를 가지고 있는 테스트의 더 큰 단위이다. 관련있는 테스트 케이스 / 스위트 들을 모아서 하나의 묶음으로 다룰 수 있다.
+  * unittest.TestSuite.addTest(unittest.TestCase) : TestSuite에 TestCase를 추가한다.
+  * unittest.TestSuite(tuple of TestSuites) : 여러 개의 TestSuites를 가지는 TestSuite를 만든다. 시스템이 큰 경우, 테스트 단위가 커질 수 있으므로 필요하다.
+  * unittest.makeSuite(unittest.TestCase, "prefix") : 주어진 테스트 케이스 클래스에서 "prefix"로 시작하는 메소드를 모두 가지는 테스트 스위트를 만든다. 보통 prefix로는 test를 사용함.
+
+**assertEquals(s)**
+테스트 결과가 어떠한 값과 동일한지 확인할 때 assert(A==B) 와 같이 작성할 수도 있지만, unittest.TestCase의 멤버 변수로 assertEqual 이라는 메소드를 활용하는 것도 가능하다. 
+ 
+```python
+class Tester(unittest.TestCase):
+  def test(self):
+    self.assertEqual(something.get_result(A, B), something.OK, msg="Something's wrong")
+```
+
+**assertNotEqual(s)**
+assertEqual(s)의 반대이다. == 연산자를 사용하여 두 값이 다른지 확인한다. 
+
+```python
+class Tester(unittest.TestCase):
+  def test(self):
+    self.assertNotEqual(something.get_result(A, B), something.FAIL, msg="Something's wrong")
+```
+
+**assertTrue**
+결과가 참인지 확인하는 경우에 assertEqual(result, True) 대신 assertTrue를 사용하면 가독성을 높일 수 있다.
+
+```python
+class Tester(unittest.TestCase):
+  def test(self):
+    self.assertTrue(something.get_result())
+```
+
+**assertRaises**
+예외의 반환 여부를 확인할 수 있다.
+
+```python
+class Tester(unittest.TestCase):
+  def test(self):
+    self.assertRaises(Exception, function, arg1, arg2, ...)
+```
