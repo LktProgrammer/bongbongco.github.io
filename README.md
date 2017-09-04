@@ -3,7 +3,7 @@ bongbongco(Lee Seungyong) blog
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 
-기술 관련 내용과 생각을 정리하는 블로그입니다.
+기술 관련 내용과 생각을 정리하는 블로그입니다. ddddddddd
 ## Domain
 
 - [http://bongbongco.github.io](http://bongbongco.github.io)
@@ -36,4 +36,7 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
-### add
+## add2
+
+ commit & push !!!
+ commit % push !!!
