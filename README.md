@@ -38,9 +38,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 ## add2
 
-<<<<<<< HEAD
-test brbr!!
-=======
- commit & push !!! commit % push !!! commit % push !!! commit % push !!!commit & push !!! commit % push !!! commit % push !!! commit % push !!!
-
->>>>>>> refs/remotes/origin/master
+test merge & push test!!!!
