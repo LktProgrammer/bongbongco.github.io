@@ -1,0 +1,12 @@
+---
+layout: post
+title: 문자열이란 무엇인가 2편 RTLO 취약점(PDF).
+categories: [Security]
+tags: [String, Computer Sience, Unicode, UTF-8, RTLO]
+fullview: false
+comments: true
+published: true
+---
+
+문자열 학습과 관련하여 어순이 달라 발생하는 취약점인 RTLO를 정리하였습니다. 해당 내용을 모르셨던 분들에게 도움이 되었으면 좋겠습니다.<br/>
+[문자열이란 무엇인가 2편.pdf by LeeSeungyong](http://www.slideshare.net/SSRINCLee/2-68247152)
